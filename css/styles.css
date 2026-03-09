@@ -6,10 +6,10 @@ body{
 }
 .flex{
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 .imgdiv{
-  justify-self: center;
+justify-self: center;
 display: flex;
 flex-direction: row;
 width: 200px;
