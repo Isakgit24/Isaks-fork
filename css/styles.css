@@ -28,7 +28,7 @@ nav {
   flex-direction: column;
 }
 
-.img { 
+.imga { 
   width: 250px;
   height: 200px;
 }
@@ -37,6 +37,7 @@ nav {
   justify-self: center;
 }
 .imgdiv {
+  gap: 8px;
   display: flex;
   flex-direction: row;
   justify-content: center;  
